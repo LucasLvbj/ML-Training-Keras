@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 # Get a pandas DataFrame object of all the data in the csv file:
-df = pd.read_csv('tweets.csv')
+df = pd.read_csv(r'C:\Users\blv\PycharmProjects\ML-Training-Keras\scikit\tweets.csv')
 
 # Get pandas Series object of the "tweet text" column:
 text = df['tweet_text']
