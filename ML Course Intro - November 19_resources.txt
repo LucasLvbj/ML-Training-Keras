@@ -1,4 +1,4 @@
 slides: http://bit.ly/lukas-qcom-course 
 git clone https://github.com/lukas/ml-class 
 instruction: https://gist.github.com/lukas/dd8b25a680fce822548db0d223b5028e#file-gistfile1-txt
-examples in the class: https://app.wandb.ai/ml-class/ 
+examples in the class: https://app.wandb.ai/ml-class/   (installation instruction is also here. Read carefully)
